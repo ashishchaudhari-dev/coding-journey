@@ -32,4 +32,3 @@ My first Python program is in `HELLO.PY`.
 ---
 
 I'm just getting started. More projects coming soon!
-
